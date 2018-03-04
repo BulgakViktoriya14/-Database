@@ -1,0 +1,1 @@
+TRUNCATE TABLE lombard.goods_new;
